@@ -7,7 +7,7 @@ import BoardGame from "./components/objects/BoardGame";
 
 
 const $root = document.querySelector("#root");
-const $htmlBoardGame = BoardGame(2);
+const $htmlBoardGame = BoardGame(6);
 
 
 //// não usar - problemas na segurança
